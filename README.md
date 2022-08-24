@@ -1,2 +1,7 @@
-# imgDownloader
-download given number of images from google : 2 inputs:    1. number of images 2. search query 
+# GoogleImageSearchDownload
+搜尋並下載google圖片
+
+## 安裝套件
+```
+pip install simple_image_download
+```
